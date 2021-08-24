@@ -29,7 +29,7 @@ The initial idea of this application was to take features from Whatsapp, Slack, 
 ## ShowCase
 ### Home Snapshot
 <div align="center">
-  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/home.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/home.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;" />
 </div>
 
 <hr>

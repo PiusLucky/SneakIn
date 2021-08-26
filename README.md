@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 <p align="center">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/logo_no_gradient%20-%20github.svg" width="150" style="font-size: 2.5rem;width: 4rem;height: 4rem;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/logo_no_gradient - github.svg" width="150" style="font-size: 2.5rem;width: 4rem;height: 4rem;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </p>
 
 <h2 align="center">:alien: SneakIN (Beast Mode)</h2>
@@ -30,71 +29,71 @@ The initial idea of this application was to take features from Whatsapp, Slack, 
 ## ShowCase
 ### Home Snapshot
 <div align="center">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/home.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/home.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;" />
 </div>
 
 <hr>
 
 ### Dashboard Snapshot (Light Mode)
 <div align="center">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/DashboardSnapshotLight.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/DashboardSnapshotLight.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 
 ### Dashboard Snapshot (Dark Mode)
 <div align="center">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/DashboardSnapshot.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/DashboardSnapshot.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 <hr>
 
 ### PrivateChat Snapshot (Light Mode)
 <div align="center">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/PrivateChat.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/PrivateChat.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 
 ### PrivateChat Snapshot (Dark Mode)
 <div align="center">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/PrivateChatDark.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/PrivateChatDark.jpg" width="100%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 <hr>
 
 ### About Snapshot (Light Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/AboutLight.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/AboutLight.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 
 ### About Snapshot (Dark Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/About.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/About.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 <hr>
 
 ### Starred Snapshot (Light Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/Starred.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/Starred.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 ### Starred Snapshot (Dark Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/StarredDark.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/StarredDark.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 <hr>
 
 ### Profile Snapshot (Light Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/ProfileLight.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/ProfileLight.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 
 ### Profile Snapshot (Dark Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/sneaker-chat-app/blob/main/src/static/img/site_image/Profile.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/Profile.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 <hr>
@@ -203,8 +202,8 @@ Database Rules
     },
 
     "presence": {
-      ".read": "auth != null",
-      ".write": "auth != null"
+      ".read": "true",
+      ".write": "true"
     },
 
     "privateMessagesIds": {
@@ -332,15 +331,4 @@ To run this project, you will need to add the following environment variables to
   
 ## Support
 
-For support, email luckypius50@gmail.com.
-
-  
-
-
-  
-
-  
-=======
-# SneakIn
-A stand-alone chatting-engine built from scratch.
->>>>>>> 53e1b9430c07efd53df48734d2168da6f9b5ef7e
+For support, email luckypius50@gmail.com

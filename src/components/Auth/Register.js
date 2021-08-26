@@ -6,7 +6,8 @@ import Firebase from "../../firebase";
 import "../../static/css/style.css";
 import "../../static/css/responsive.css";
 import logo from "../../static/img/logo_no_gradient.svg";
-import sneakin_auth from "../../static/img/llogin.jpg";
+import sneakin_auth from "../../static/img/auth_svg.svg";
+import sneakin_auth_dark from "../../static/img/auth_svg_dark.svg";
 import { fadeIn, fadeOut } from "../Utility/animate";
 import { useIntersection } from "react-use";
 import GoogleAuth from "./GoogleAuth";
@@ -36,16 +37,17 @@ const RegisterAnimate = ({
   handleSubmit,
   handleChange,
   loading,
-  themeToggler
+  themeToggler,
+  theme
 }) => {
-  var sneackinAuthRef = useRef(null);
-  const intersection = useIntersection(sneackinAuthRef, {
+  var sneakinAuthRef = useRef(null);
+  const intersection = useIntersection(sneakinAuthRef, {
     root: null,
     rootMargin: "0px",
     threshold: 0.5,
   });
 
-  if (!!sneackinAuthRef && !!intersection) {
+  if (!!sneakinAuthRef && !!intersection) {
     intersection && intersection.intersectionRatio < 0.5
       ? fadeIn(".fadeIn")
       : fadeOut(".fadeIn");
@@ -184,7 +186,7 @@ const RegisterAnimate = ({
         </BlackRock>
 
         <div className="rightside">
-          <img src={sneakin_auth} ref={sneackinAuthRef} alt="illustration" />
+         <img src={theme === "light"?sneakin_auth:sneakin_auth_dark} ref={sneakinAuthRef} alt="illustration" />
         </div>
       </BlueCharcoal>
       <Footer className="bottom_filler">
@@ -415,6 +417,7 @@ export class Register extends Component {
           handleChange={this.handleChange}
           loading={loading}
           themeToggler={this.themeToggler}
+          theme={this.state.theme}
         />
         </ThemeProvider>
       </>

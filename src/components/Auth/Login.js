@@ -6,7 +6,8 @@ import { REGISTER } from "../../constants/routes";
 import "../../static/css/style.css";
 import "../../static/css/responsive.css";
 import logo from "../../static/img/logo_no_gradient.svg";
-import sneackin_auth from "../../static/img/llogin.jpg";
+import sneakin_auth from "../../static/img/auth_svg.svg";
+import sneakin_auth_dark from "../../static/img/auth_svg_dark.svg";
 import {fadeIn, fadeOut} from "../Utility/animate"
 import { useIntersection } from "react-use";
 import GoogleAuth from "./GoogleAuth"
@@ -34,18 +35,19 @@ const LoginAnimate = ({
   handleSubmit,
   handleChange,
   loading,
-  themeToggler
+  themeToggler,
+  theme
 }) => {
   
-  var sneackinAuthRef = useRef(null);
+  var sneakinAuthRef = useRef(null);
 
-  const intersection = useIntersection(sneackinAuthRef, {
+  const intersection = useIntersection(sneakinAuthRef, {
     root: null,
     rootMargin: "0px",
     threshold: 0.5,
   });
 
-  if (!!sneackinAuthRef && !!intersection) {
+  if (!!sneakinAuthRef && !!intersection) {
     intersection && intersection.intersectionRatio < 0.5
      ? fadeIn(".fadeIn")
      : fadeOut(".fadeIn");
@@ -153,7 +155,7 @@ const LoginAnimate = ({
         </BlackRock>
 
         <div className="rightside">
-          <img src={sneackin_auth} ref={sneackinAuthRef} alt="illustration" />
+          <img src={theme === "light"?sneakin_auth:sneakin_auth_dark} ref={sneakinAuthRef} alt="illustration" />
         </div>
       </BlueCharcoal>
       <Footer className="bottom_filler">
@@ -301,6 +303,7 @@ class Login extends Component {
           handleChange={this.handleChange}
           loading={loading}
           themeToggler={this.themeToggler}
+          theme={this.state.theme}
         />
         </ThemeProvider>
       </>
@@ -309,12 +312,13 @@ class Login extends Component {
 }
 
 
-const LoginFunc = () => {
+const LoginFunc = ({theme_type}) => {
   let history = useHistory();
   const isDesktop = useMediaQuery({
     query: "(min-width: 1201px)",
   });
-  return <Login isDesktop={isDesktop} setCurrentTheme={setCurrentTheme} history={history}/>
+  return <Login isDesktop={isDesktop} setCurrentTheme={setCurrentTheme} history={history} />
 }
+
 
 export default connect(null, { setCurrentTheme })(LoginFunc);

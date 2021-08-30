@@ -7,7 +7,7 @@
 
 # A stand-alone chatting-engine built from scratch
 
-The initial idea of this application was to take features from Whatsapp, Slack, and Telegram in building an hybrid-like Chatting System **without** depending on any form of external chatting SDK like Stream, SendBird including the Big Wolf, **Chat Engine**.
+The initial idea of this application was to take features from Whatsapp, Slack, and Telegram in building a hybrid-like Chatting System **without** depending on any form of external chatting SDK like Stream, SendBird including the Big Wolf, **Chat Engine**.
 
 
 

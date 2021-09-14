@@ -62,38 +62,38 @@ The initial idea of this application was to take features from Whatsapp, Slack, 
 
 ### About Snapshot (Light Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/AboutLight.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/AboutLight.jpg" width="40%" style="font-size: 2.5rem;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 
 ### About Snapshot (Dark Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/About.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/About.jpg" width="40%" style="font-size: 2.5rem;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 <hr>
 
 ### Starred Snapshot (Light Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/Starred.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/Starred.jpg" width="40%" style="font-size: 2.5rem;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 ### Starred Snapshot (Dark Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/StarredDark.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/StarredDark.jpg" width="40%" style="font-size: 2.5rem;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 <hr>
 
 ### Profile Snapshot (Light Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/ProfileLight.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/ProfileLight.jpg" width="40%" style="font-size: 2.5rem;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 
 ### Profile Snapshot (Dark Mode)
 <div align="left">
-  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/Profile.jpg" width="40%" style="font-size: 2.5rem;width: 100%;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
+  <img src="https://github.com/PiusLucky/SneakIn/blob/main/src/static/img/site_image/Profile.jpg" width="40%" style="font-size: 2.5rem;height: auto;display: flex;align-items: center;justify-content: center;background-color: #66c29b;border-radius: 15px;"/>
 </div>
 
 <hr>

@@ -319,6 +319,8 @@ To run this project, you will need to add the following environment variables to
 
 - Fixing minor UI bugs
 
+- Implementing Hasher Algorithms Using CryptoJS (soon)
+
   
 ## Authors
 

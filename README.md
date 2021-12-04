@@ -13,7 +13,7 @@ The initial idea of this application was to take features from Whatsapp, Slack, 
 
 ## Competitive Versions
 
-```http
+```txt
   Versions of different technologies where features were extracted
 ```
 
